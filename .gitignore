@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+*.odt
+*.odt#
+wiki_dataset/wikiextractor
+wiki_dataset/data
